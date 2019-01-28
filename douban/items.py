@@ -6,6 +6,9 @@
 # https://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
+
+
+
 class DoubanItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
